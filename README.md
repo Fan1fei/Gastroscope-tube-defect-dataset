@@ -55,7 +55,7 @@ This dataset mimics the PASCAL VOC 2012 structure, allowing it to be easily inte
 If you use this dataset in your research, please cite our paper:
 
 ```bibtex
-@article{YourName2026SCFNet,
+@article{Hu2026SCFNet,
   title={SCFNet: A Structure-Aware and Contrast-Enhanced Collaborative Few-Shot Industrial Defect Detection Method},
   author={{Hu, Shifei and Gu, Minming and Li, Xinyu},
   journal={Signal, Image and Video Processing},
